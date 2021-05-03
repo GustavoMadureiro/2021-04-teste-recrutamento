@@ -1,7 +1,7 @@
 
 1. Alice recebeu uma solicitação para averiguar se a conexão do servidor está disponível. Qual protocolo e comando que é utilizado para esta situação em ambos os sistemas operacionais: Microsoft Windows e GNU/Linux?
    * [ ] SNMP, get-service -name snmp e SNMP, snmpget
-   * [ ] ICMP, ping e ICMP, ping
+   * [x] ICMP, ping e ICMP, ping
    * [ ] ICMP, tracert e ICMP, traceroute
    * [ ] NTP, w32tm /resync e NTP, driftfile
 
@@ -13,16 +13,16 @@ Resposta:
    * [ ] Scheduling
    * [ ] Vim
    * [ ] Task
-   * [ ] Cron
+   * [X] Cron
 
 4. Bob não utilizará mais a pasta correspondente ao setor financeiro, porém, a Alice que é deste setor, precisa ser a nova proprietária dessa pasta. Qual o comando em GNU/Linux para essa tal finalidade?
    * [ ] chroot
    * [ ] chmod
-   * [ ] chown
+   * [X] chown
    * [ ] attrib
 
 5. Alice precisa alterar a permissão do arquivo somente para o proprietário e grupo como leitura e escrita e para os demais como somente leitura. Qual o comando utilizado e sua permissão?
    * [ ] chown 041
    * [ ] chown 664
-   * [ ] chmod 664
+   * [X] chmod 664
    * [ ] chmod 652
