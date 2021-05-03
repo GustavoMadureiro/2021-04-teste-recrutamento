@@ -15,4 +15,6 @@ Os 2 primeiros testes foram escritos com o básico da linguagem JAVA e nada alé
 
 Já na parte teorica, respondi como pude os 3 testes, atualizei os arquivos de acompanhamento para facilitar!
 
-Muito obrigado pela oportunidade.
+# Agradecimentos 
+
+Independente de qualquer resultado, fazer este teste foi muito proveitoso e divertido para mim, me cativou ainda mais para continuar estudando programação, por isso o realizei com tanto carinho. Muito obrigado pela oportunidade! 😉
